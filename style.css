@@ -1,0 +1,67 @@
+.content {
+    font-family: "Tiny5";
+    color: white;
+    padding: 20px 0px 0px 0px;
+    margin: 0 auto;
+    width: 70%;
+    height: 700px;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.832);
+
+    text-align: center;
+}
+#destaque{
+    color: green;
+}
+body{
+    margin: 0px;
+    padding: 0px 0px 35px 0px;
+    background-image: url("Fundo.jpg");
+}
+
+#texto {
+    text-align: justify;
+    padding: 50px;
+}
+
+header{
+    text-align: center;
+}
+button{
+    font-family: "Tiny5";
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 20px;
+    border: none;
+    box-shadow: 2px 1px 5px green;
+}
+
+button:active{
+    background-color: green;
+    box-shadow: 2px 1px 5px rgb(0, 0, 0);
+    color: white;
+
+}
+
+input{
+    font-family: "Tiny5";
+    width: 50%;
+    height: 30px;
+    border-radius: 15px;
+    padding: 5px 0px 5px 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 5px;
+    font-size: 70px;
+    text-shadow: 1px 2px 3px green;
+}
+p{
+    margin: 0px;
+    font-family: "Tiny5";
+    font-size: 30px;
+    text-align: justify;
+}
